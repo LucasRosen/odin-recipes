@@ -1,3 +1,4 @@
 # odin-recipes
-A basic recipe website that will consist of a main index page and have links to a few recipes.
-This is just to build up HTML knowledge and will be revisited later to add CSS.
+A plain recipe site. All recipes stolen from allrecipes.com
+
+This was made with to build up HTML and CSS skills as well as learning to use GIT and making a habit of commiting early and often
