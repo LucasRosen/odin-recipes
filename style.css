@@ -1,0 +1,28 @@
+.headerText {
+    background-color: #222831;
+    color: #EEEEEE;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
+
+ul, ol {
+    background-color: #222831;
+    text-align: center;
+}
+
+ol {
+    list-style-type:decimal;
+}
+
+li, a {
+    color: #EEEEEE;
+    line-height: 1.8rem;
+}
+
+a {
+    background-color: #393E46;
+}
