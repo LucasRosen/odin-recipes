@@ -15,6 +15,10 @@ body {
     margin-bottom: 10px;
 }
 
+img:not(.no-border) {
+    border: 2px solid #f99e1a;
+}
+
 h1, h3, h4 {
     margin: 0;   
 }
