@@ -11,3 +11,17 @@ body {
     padding: 0;
     list-style: none;
 }
+
+li, a:link, a:visited {
+    background-color: transparent;
+    border: 2px solid #f99e1a;
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+
+a:hover, a:active {
+    background-color: #f99e1a;
+    color: white;
+  }
