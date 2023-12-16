@@ -1,27 +1,33 @@
 body {
     max-width: 600px;
     margin: auto;
-}
-
-.container {
     text-align: center;
+    background-color: #E0DED7;
 }
 
 .recipe-list {
-    padding: 0;
     list-style: none;
 }
 
-li, a:link, a:visited {
-    background-color: transparent;
-    border: 2px solid #f99e1a;
+ol, ul {
+    padding: 0;
+}
+
+a {
     text-decoration: none;
-    color: black;
+}
+
+li:not(.link-button), a {
+    display: inline-block;
+    margin-bottom: 10px;
     padding: 5px 10px;
-    margin-bottom: 5px;
+
+    border: 2px solid #f99e1a;
+    background-color: white;
+    color: black;
 }
 
 a:hover, a:active {
     background-color: #f99e1a;
     color: white;
-  }
+}
